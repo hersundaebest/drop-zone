@@ -1,5 +1,5 @@
 # Drop Zone - Diff Technical Interview Question
-Hi! Thanks for having a look at my technical interview submission. I've opted to code **Option B**. The configurable date can be found and altered in the Counter component--it's currently set to my birthday.
+Hi! Thanks for having a look at my technical interview submission. I've opted to code **Option B**. The configurable date can be found and altered in the Counter component—it's currently set to my birthday.
 
 This app was built with React. In order to initialize it:
 * cd client
