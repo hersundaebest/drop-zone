@@ -1,5 +1,7 @@
-# Drop Zone
-Diff technical interview question.
+# Drop Zone - Diff Technical Interview Question
+Hi! Thanks for having a look at my technical interview submission. I've opted to code **Option B**. The configurable date can be found and altered in the Counter component--it's currently set to my birthday.
+
+***
 
 ## Instructions
 * There are no time restrictions.
